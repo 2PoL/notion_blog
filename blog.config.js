@@ -1,9 +1,9 @@
 const BLOG = {
-  title: '2PoL \' Blog',
+  title: '2PoL\'Blog',
   author: '2PoL',
   email: 'im.shihuiyu@gmail.com',
   link: 'https://www.2pol.xyz',
-  description: 'This gonna be an awesome website.',
+  description: 'Cyber life guide.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
