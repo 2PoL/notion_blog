@@ -1,5 +1,5 @@
 const BLOG = {
-  title: '2PoL\'Blog',
+  title: '2PoL\'s Blog',
   author: '2PoL',
   email: 'im.shihuiyu@gmail.com',
   link: 'https://www.2pol.xyz',
