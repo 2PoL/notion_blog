@@ -1,7 +1,7 @@
 const BLOG = {
   title: '2PoL \' Blog',
   author: '2PoL',
-  email: 'onpluto@outlook.com',
+  email: 'im.shihuiyu@gmail.com',
   link: 'https://www.2pol.xyz',
   description: 'This gonna be an awesome website.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
